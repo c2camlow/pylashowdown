@@ -2,6 +2,8 @@
 
 A fork of [PylaAI](https://github.com/PylaAI/PylaAI) (v0.6.5) that adds **two Showdown gamemodes** and a **live debug window** for visualizing AI detections in real time.
 
+Also important add your own api folder from the original pyla
+
 ## Showdown Modes
 
 The base PylaAI ships Showdown as a disabled, unimplemented button. This fork adds two fully playable Showdown strategies — pick the one that fits your playstyle.
